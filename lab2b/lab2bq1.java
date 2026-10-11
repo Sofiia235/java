@@ -7,7 +7,7 @@ public class Lab2bq1
 { // begin class
 	public static void main(String args[]) 
 	{ // being main method
-	
+		
 		Rectangle r1 = new Rectangle();		// Create an instance of class
 		Rectangle r2 =  new Rectangle();
 		Rectangle r3 =  new Rectangle();
