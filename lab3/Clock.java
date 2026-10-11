@@ -19,7 +19,7 @@ public class Clock
 			t.tick();
 			System.out.println(t.toString());
 			
-			long start = System.currentTimeMillis();				//long = large whole numbers. better be inside loop?
+			long start = System.currentTimeMillis();				//long = large whole numbers. better be inside a loop?
 			while ( System.currentTimeMillis() - start < 1000)
 			{
 				//nothing
