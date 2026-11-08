@@ -1,7 +1,7 @@
 // Student Name 	: Sofiia Sablina
 // Student Id Number: C00322001
 // Date 			: Oct-2026
-// Purpose 			: Employee class
+// Purpose 			: Employee class. Employee has an address
 
 public class Employee
 {

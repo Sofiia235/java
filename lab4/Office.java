@@ -1,7 +1,7 @@
 // Student Name 	: Sofiia Sablina
 // Student Id Number: C00322001
 // Date 			: Oct-2026
-// Purpose 			: Office class
+// Purpose 			: Office class. Office has an Employee
 
 
 public class Office
